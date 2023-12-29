@@ -7,7 +7,8 @@ Sua missão vai ser reproduzir passo passo o projeto visto nessa aula, ao final 
 Sabemos que toda jornada tem seus desafios, por isso separamos alguns links que podem te ajudar durante esse processo:
 -> Veja como entregar seu desafio de projeto no Github: Como entregar seu desafio de projeto.
 -> Código-fonte deste Desafio de Projeto:Código-fonte do projeto.
-Bons estudos 😉
+Bons estudos 😉.
+
 MELHORAMENTOS:
 1. Níveis de dificuldade: Você pode adicionar níveis de dificuldade ao jogo. Por exemplo, o nível fácil poderia ter 8 pares de emojis, o nível médio poderia ter 16 pares, e o nível difícil poderia ter 24 pares.
 2. Temporizador: Adicione um temporizador para tornar o jogo mais desafiador. O jogador teria que encontrar todos os pares antes que o tempo acabe.
